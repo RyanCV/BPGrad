@@ -15,7 +15,6 @@ Understanding the global optimality in deep learning (DL) has been attracting mo
 >> cnn_cifar_BPGrad.m
 ```
 
-
 ## Citation
 If you find BPGrad helps your research, please cite our paper:
 ```
