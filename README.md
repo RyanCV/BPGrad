@@ -8,6 +8,14 @@ Understanding the global optimality in deep learning (DL) has been attracting mo
 - Matlab 2017
 - [MatConvNet](https://github.com/vlfeat/matconvnet)
 
+## Training and Test
+- To install MatConvNet following the instruction
+- Run training and test for cifar10, different solvers could be selected. The default solver is BPGrad.
+```
+>> cnn_train_v2_cifar_BPGrad.m
+```
+
+
 ## Citation
 If you find BPGrad helps your research, please cite our paper:
 ```
