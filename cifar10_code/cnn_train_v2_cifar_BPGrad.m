@@ -104,7 +104,7 @@ end
 net = vl_simplenn_tidy(net); % fill in some eventually missing values
 net.layers{end-1}.precious = 1; % do not remove predictions, used for error
 
-load('../weights_folder/Weights_init_cifar10.mat');
+load('../init_weights/Weights_init_cifar10.mat');
 for i=1:numel(net.layers)
     net.layers{i}.weights=Weights_init{i};
 end
