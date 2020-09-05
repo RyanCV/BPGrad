@@ -6,7 +6,7 @@ Understanding the global optimality in deep learning (DL) has been attracting mo
 
 ## Requirements
 - Matlab 2017
-- [MatConvNet] (https://github.com/vlfeat/matconvnet)
+- [MatConvNet](https://github.com/vlfeat/matconvnet)
 
 ## Citation
 If you find BPGrad helps your research, please cite our paper:
